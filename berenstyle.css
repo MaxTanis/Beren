@@ -5,6 +5,7 @@ body{
 	font-family:monospace;
 }
 
+
 .page {
 	margin: 40px auto;
 	border: 2px solid black;
@@ -48,6 +49,8 @@ h1{
 	margin: 20px;
 	padding: 10px 20px;
 	color: aliceblue;
+	margin-left: -100;
+	margin-right: -100;
 }
 
 h2{
